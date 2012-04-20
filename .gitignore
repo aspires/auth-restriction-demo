@@ -15,6 +15,11 @@
 /tmp
 
 
-#ignore redcar editor, which is awesome BTW
+# ignore redcar editor, which is awesome BTW
 
 /.redcar
+
+# ignore production.rb config file -- easier than isolating mailer credentials elsewhere
+
+/config/environments/production.rb
+config/environments/production.rb
