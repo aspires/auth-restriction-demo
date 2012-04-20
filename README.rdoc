@@ -1,0 +1,6 @@
+== Demo of Devise, Canacan and Twitter boostrap all in one happy package
+
+
+I used the following resource for this:
+
+http://railsapps.github.com/tutorial-rails-bootstrap-devise-cancan.html
