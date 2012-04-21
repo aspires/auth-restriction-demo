@@ -9,8 +9,8 @@ Rails3BootstrapDeviseCancan::Application.configure do
     domain: "example.com",
     authentication: "plain",
     enable_starttls_auto: true,
-    user_name: ENV["austinspires@gmail.com"],
-    password: ENV["2gooverthehill"]
+    user_name: ENV["USERNAME@gmail.com"],
+    password: ENV["PASSWORD"]
   }
   
   config.action_mailer.perform_deliveries = true
